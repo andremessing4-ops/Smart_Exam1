@@ -1,0 +1,26 @@
+[
+    {
+        "titre": "Sujet 2023 - ENS",
+        "fichier": "sujet2023.pdf"
+    },
+    {
+        "titre": "Sujet 2022 - FASA",
+        "fichier": "sujet2022.pdf"
+    },
+    {
+        "titre": "Sujet 2021 - IUT",
+        "fichier": "sujet2021.pdf"
+    },
+    {
+        "titre": "epreuve de merise ",
+        "fichier": "uploads/sujets\\2-IntroMerise-4p.pdf",
+        "niveau": "Licence",
+        "filiere": "info fonda"
+    },
+    {
+        "titre": "epreuve licence",
+        "fichier": "uploads/sujets\\4-FluxMCT-Merise-4p.pdf",
+        "niveau": "Licence",
+        "filiere": "info"
+    }
+]

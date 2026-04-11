@@ -1,0 +1,16 @@
+[
+    {
+        "titre": "Math\u00c3\u00a9matiques",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+        "titre": "Physique",
+        "video": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+        "titre": "cours de dance",
+        "video": "uploads/cours\\VID-20230313-WA0006.mp4",
+        "niveau": "Licence",
+        "filiere": "info"
+    }
+]
