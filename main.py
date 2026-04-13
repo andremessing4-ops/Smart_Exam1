@@ -1,3 +1,7 @@
+
+import os
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./test.db")
+
 import os
 from contextlib import asynccontextmanager
 
